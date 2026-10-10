@@ -41,9 +41,9 @@
 ## Скриншоты
 
 
-| Главное окно | Меню тем | Загрузки |
-|:---:|:---:|:---:|
-| ![Main](screenshots/main.png) | ![Themes](screenshots/themes.png) | ![Downloads](screenshots/downloads.png) |
+| Главное окно | Окно выбора поисковика | Меню тем | Загрузки |
+|:---:|:---:|:---:|:---:|
+| ![Main](screenshots/main.png) | ![Engine](screenshots/engine-dialog.png) | ![Themes](screenshots/themes.png) | ![Downloads](screenshots/downloads.png) |
 
 ---
 
