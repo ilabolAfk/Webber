@@ -13,19 +13,9 @@
   <img src="https://img.shields.io/badge/PyQt6-6.11-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6">
   <img src="https://img.shields.io/badge/Chromium-118-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chromium">
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge" alt="Platform">
-  <img src="https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge&logo=gnu&logoColor=white" alt="License">
 </p>
 
 <p align="center">
-  <a href="https://github.com/ilabolAfk/Webber/stargazers">
-    <img src="https://img.shields.io/github/stars/ilabolAfk/Webber?style=for-the-badge&logo=github&color=gold" alt="Stars">
-  </a>
-  <a href="https://github.com/ilabolAfk/Webber/issues">
-    <img src="https://img.shields.io/github/issues/ilabolAfk/Webber?style=for-the-badge&logo=github&color=red" alt="Issues">
-  </a>
-  <a href="https://github.com/ilabolAfk/Webber/commits/main">
-    <img src="https://img.shields.io/github/last-commit/ilabolAfk/Webber?style=for-the-badge&logo=git&color=blue" alt="Last commit">
-  </a>
   <a href="https://github.com/ilabolAfk/Webber/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/ilabolAfk/Webber?style=for-the-badge&color=blue" alt="GPL-3.0">
   </a>
