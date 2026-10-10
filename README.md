@@ -3,9 +3,8 @@
 **Быстрый и удобный браузер на PyQt6 + QtWebEngine.**
 
 Современный движок Chromium 118+, тёмная/светлая/полночная темы, менеджер загрузок, режим инкогнито и аккуратный интерфейс с иконками Font Awesome.
-
 <p align="center">
-  <img width="128" height="128" alt="Webber" src="https://github.com/user-attachments/assets/2b2057bf-5a81-49b3-b0ba-ef2e824ac950" />
+  <img width="512" height="512" alt="Icon" src="https://github.com/user-attachments/assets/82707c3f-0c3d-4f47-9291-0b20acc44b76" />
 </p>
 
 <p align="center">
